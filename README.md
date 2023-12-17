@@ -45,6 +45,8 @@ The Ad Generation Project aims to create personalized advertisements using user 
 - **Saurabha Sawant**
 - **Adarsh Kesharwani**
 - **Vighnesh Mishra**
+
+  
 Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
