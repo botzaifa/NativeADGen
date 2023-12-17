@@ -27,21 +27,25 @@ The Ad Generation Project aims to create personalized advertisements using user 
 
 
 ## Future Enhancements
-- **Video Conversion:** Implementing functionality to convert generated images into video advertisements.
+- **Video Ad Generation** It would create Video Ads (for eg. 5 - 15 sec ads)
 - **Audio Integration:** Adding voiceovers or audio elements to ads in the user's native language.
-- **Web Integration:** Developing a user-friendly web interface for easier ad generation.
+- **Size Customization:** The User would be able to customizze sizes for the posts or banner.
 
 ## Usage
 1. **Setup Environment:**
    - Clone the repository.
-   - Install dependencies from `requirements.txt`.
+   - Install dependencies .
 
 2. **Run the Application:**
-   - Execute `main.py` to start the ad generation process.
+   - Execute `Main.ipynd` to start the ad generation process.
    - Provide necessary inputs when prompted.
 
 ## Contributing
+- **Huzaifa Khan**
+- **Saurabha Sawant**
+- **Adarsh Kesharwani**
+- **Vighnesh Mishra**
 Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public  License v3.0](LICENSE).
